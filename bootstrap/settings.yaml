@@ -4,7 +4,7 @@ metadata:
   name: global
   namespace: plrl-deploy-operator
 spec:
-  managementRepo: 
+  managementRepo: git@github.com:Soot3/pluralennis.git
 
   stacks:
     jobSpec:
